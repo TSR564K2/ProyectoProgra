@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 from FuncionesProyecto import *
 import math
-#HolaEjemplo
+#HolaEjemplo aaaaaaaaaaaaaaaaaaaaajkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 ###############################################      funciones programa      #################################################
 def conjeturaGoldbach():
     n=valor0.get()
