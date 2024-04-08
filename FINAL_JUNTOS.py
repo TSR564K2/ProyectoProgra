@@ -32,6 +32,8 @@ def TrianguloPascal():
     F = "" 
     if Filas <1 :
         res="La cantidad de filas debe ser mayor a 0"
+    if Filas >19:
+        res="Por favor digite una cantidad de filas menor a 20"
     else:
         for i in range(0, Filas):
             F=""
