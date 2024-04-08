@@ -237,7 +237,7 @@ Label(pes2, text=
       Usa un "for" que va desde 0 hasta el numero ingresado y va
       agregando a una variable "resultado" un punto + por cada fila
       y la cantidad de puntos agragados, debe ser la misma cantidad del
-      número de entrada
+      número de entrada.
       
 
       """, anchor=W, borderwidth=2, relief=SOLID, height=25, justify=LEFT ).grid(row=4,column=3,sticky=SE)
