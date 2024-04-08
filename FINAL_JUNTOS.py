@@ -2,9 +2,9 @@ from tkinter import *
 from tkinter import ttk
 from FuncionesProyecto import *
 import math
-#HolaEjemplo aaaaaaaaaaaaaaaaaaaaakjkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
 ###############################################      funciones programa      #################################################
-ejemplo =""
+#Exampel
 def conjeturaGoldbach():
     n=valor0.get()
     enseñarValor.config(text="El número ingresado es: "+str(n)) 
